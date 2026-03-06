@@ -22,7 +22,7 @@ main:
             journal      = {{IEEE} Trans. Vis. Comput. Graph.},
             year         = {2026},
           }
-    
+    pdf: "https://ieeexplore.ieee.org/abstract/document/11372956"
   - title: "Img2CAD: Conditioned 3D CAD Model Generation from Single Image with Structured Visual Geometry"
     venue: "TII"
     image: ./publication/image/TII.png 
