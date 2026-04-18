@@ -1,7 +1,10 @@
 <h2 style="margin: 2px 0px -10px;">
   <a href="./_publication/publication.html" style="text-decoration: none; color: inherit;">Publications</a>
 </h2>
-<br>
+
+<div style="font-size: 14px; color: #666; margin-top: 20px; margin-bottom: 15px;">
+  <span>* Equal contribution &nbsp;&nbsp;&nbsp;&nbsp; &dagger; Corresponding author</span>
+</div>
 
 <div class="publications" style="max-width: 900px; margin: auto; font-size: 14px; line-height: 1.5;">
   <ol class="bibliography" style="padding-left: 0; margin-bottom: 3px;">
@@ -9,7 +12,6 @@
     <li style="list-style: none; margin-bottom: 10px;">
       <div class="pub-row" style="display: flex; flex-wrap: wrap; align-items: stretch; min-height: 140px; background-color: #f8f9fa; box-shadow: 0 4px 12px rgba(0,0,0,0.1); border-radius: 8px; padding: 10px 20px;">
         
-  <!-- 左侧图片区域 -->
   <div class="col-sm-3 abbr" style="flex: 0 0 25%; padding-right: 20px; display: flex; align-items: flex-start; justify-content: center; height: 140px; position: relative;">
     {% if link.image %}
    <img src="{{ link.image }}" style="height: 100%; width: 100%; object-fit: contain; border-radius: 4px;">
